@@ -66,7 +66,7 @@
                     }?>
                     </td>                    
                 </tr>  
-                <a href="./Task.html"><input type="button" value="Back" class="backToForm"><a>
+                <a href="./index.html"><input type="button" value="Back" class="backToForm"><a>
             </table>
         </form>
     </div>
