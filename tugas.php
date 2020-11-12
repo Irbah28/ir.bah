@@ -1,14 +1,14 @@
 <html>
     <head>
         <title>Lab 3 | Task 3</title>
-        <script src="Task.js"></script>
+        <script src="tugas.js"></script>
         <link rel="stylesheet" href="Task.css">
     </head>
     <body id="main">
         <div class=header2>
             <h2>Info. Retrieved</h2>
         </div>
-        <form action="Task.php" method="GET" onsubmit="return checkForm(this);">
+        <form action="tugas.php" method="GET" onsubmit="return checkForm(this);">
             <div class="main2">
             <table align="center" class="table2">
                 <tr>
@@ -70,7 +70,6 @@
             </table>
         </form>
     </div>
-    <footer>Designed by: Mursal Furqan</footer>
    </body>
 </html>
 
