@@ -34,7 +34,7 @@ var citiesByProvince = {
     Maluku: ["Kabupaten Buru","Kabupaten Buru Selatan","Kabupaten Kepulauan Aru","Kabupaten Maluku Barat Daya","Kabupaten Maluku Tengah","Kabupaten Maluku Tenggara","Kabupaten Kepulauan Tanimbar","Kabupaten Seram Bagian Barat","Kabupaten Seram Bagian Timur","Kota Ambon","Kota Tual"],
     PapuaBarat: ["Kabupaten Fakfak","Kabupaten Kaimana","Kabupaten Manokwari","Kabupaten Manokwari Selatan","Kabupaten Maybrat","Kabupaten Pegunungan Arfak","Kabupaten Raja Ampat","Kabupaten Sorong","Kabupaten Sorong Selatan","Kabupaten Tambrauw","Kabupaten Teluk Bintuni","Kabupaten Teluk Wondama","Kota Sorong"],
     Papua: ["Kabupaten Asmat","Kabupaten Biak Numfor","Kabupaten Boven Digoel","Kabupaten Deiyai","Kabupaten Dogiyai","Kabupaten Intan Jaya","Kabupaten Jayapura","Kabupaten Jayawijaya","Kabupaten Keerom","Kabupaten Kepulauan Yapen","Kabupaten Lanny Jaya","Kabupaten Mamberamo Raya","Kabupaten Mamberamo Tengah","Kabupaten Mappi","Kabupaten Merauke","Kabupaten Mimika","Kabupaten Nabire","Kabupaten Nduga","Kabupaten Paniai","Kabupaten Pegunungan Bintang","Kabupaten Puncak","Kabupaten Puncak Jaya","Kabupaten Sarmi","Kabupaten Supiori","Kabupaten Tolikara","Kabupaten Waropen","Kabupaten Yahukimo","Kabupaten Yalimo","Kota Jayapura"],
-    Gorontalo: ["Kabupaten Boalemo","Kabupaten Bone Bolango","Kabupaten Gorontalo","Kabupaten Gorontalo Utara","Kabupaten Pohuwato","Kota Gorontalo"],
+    Gorontalo: ["Kabupaten Boalemo","Kabupaten Bone Bolango","Kabupaten Gorontalo","Kabupaten Gorontalo Utara","Kabupaten Pohuwato","Kota Gorontalo"]
     }
 
 function makeSubmenu(value) {
