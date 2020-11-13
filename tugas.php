@@ -1,8 +1,8 @@
 <html>
     <head>
-        <title>Lab 3 | Task 3</title>
+        <title>Formulir Pendaftaran by Irbah Nafiah (18610052)</title>
         <script src="tugas.js"></script>
-        <link rel="stylesheet" href="Task.css">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body id="main">
         <div class=header2>
