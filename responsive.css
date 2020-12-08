@@ -3,6 +3,7 @@
   .header {
     width: 100%;
     margin-bottom: 50px;
+    font-size: 20px;
   }
   
   div.header {
@@ -63,6 +64,10 @@
   
   .required {
     margin-bottom: 10px;
+  }
+  
+  .header {
+    font-size: 15px;
   }
   
   .h1 {
