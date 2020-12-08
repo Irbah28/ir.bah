@@ -3,93 +3,41 @@
   .header {
     width: 100%;
     margin-bottom: 50px;
-    font-size: 20px;
   }
-  
-  div.header {
-    font-size: 20px;
-  }
-  
-  .header2 {
-    font-size: 25px;
-  }
-  
-  .main2 {
-    font-size: 20px;
-  }
-  
-  .table {
-    width: 100%;
-  }
-  
-  footer {
-    text-align: center;
-  }
-  
-  .table2 {
-    width: 100%;
-  }
-  
-  .required {
-    margin-bottom: 10px;
-  }
+
   .h1 {
-    font-size: 20px
-}
+      font-size: 20px;
+  }
+
+  .Sign-Up-Form {
+      font-size: 20px;
+  }
+  
+  
 
 /* For Smartphones */
 @media all and (max-width: 670px) {
-  .header2 {
-    font-size: 25px;
+    .h1 {
+      font-size: 15px;
   }
-  
-  div.header {
-    font-size: 15px;
+
+  .Sign-Up-Form {
+      font-size: 15px;
   }
-  
-  .main2 {
-    font-size: 20px;
-  }
-  .table {
-    width: 100%;
-  }
-  
-  footer {
-    text-align: center;
-  }
-  
-  .table2 {
-    width: 100%;
-  }
-  
-  .required {
-    margin-bottom: 10px;
-  }
-  
-  .header {
-    font-size: 15px;
-  }
-  
-  .h1 {
-    font-size: 15px;
-  }
-  
-  /* Add CSS for header-right */
+
   .header-right {
     display: none;
   }
-  
+
   /* Add CSS for menu-icon */
-  .menu-icon {
+  .clear {
     display: block;
+    font-size: 14px;
+    line-height: 20px;
   }
   
-  .header1 {
-    font-size: 24px;
-    line-height: 36px;
-  }
-  
-  .main2 {
+  .proceed {
+    display: block;
     font-size: 14px;
     line-height: 20px;
   }
