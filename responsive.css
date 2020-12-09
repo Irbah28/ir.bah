@@ -3,13 +3,14 @@
   .header {
     width: 100%;
     margin-bottom: 50px;
+    height: 120px;
   }
 
   .h1 {
       font-size: 20px;
   }
 
-  .Sign-Up-Form {
+  .main {
       font-size: 20px;
   }
   
@@ -17,7 +18,16 @@
 
 /* For Smartphones */
 @media all and (max-width: 670px) {
-    .h1 {
+  .header {
+    width: 100%;
+    margin-bottom: 50px;
+    height: 140px;
+  }
+  .main {
+    font-size: 15px;
+  }
+  
+  .h1 {
       font-size: 15px;
   }
 
