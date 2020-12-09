@@ -3,7 +3,6 @@
   .header {
     width: 100%;
     margin-bottom: 50px;
-    height: 90px;
   }
 
   .h1 {
@@ -21,8 +20,8 @@
   .header {
     width: 100%;
     margin-bottom: 50px;
-    height: 90px;
   }
+  
   .main {
     font-size: 15px;
   }
